@@ -1,0 +1,7 @@
+Time Execution Graph1: 49000
+Time Execution Graph2: 21399
+Time Execution Graph3: 33901
+Time Execution Graph4: 73300
+Time Execution Graph5: 125100
+Time Execution Graph6: 193100
+Time Execution Graph7: 499700
